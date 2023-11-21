@@ -1,0 +1,10 @@
+/* Estilos para el elemento h1 */
+h1{
+    text-align: center; /* Centra el texto */
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif/* Establece la fuente del texto */
+}
+
+/* Estilos para el cuerpo (body) de la página */
+body {
+    background: radial-gradient(circle, rgb(174, 200, 238) 0%, rgb(226, 231, 231) 100%);
+}
